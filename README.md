@@ -380,36 +380,45 @@ Microservices Architecture
 
 # 📸 Screenshots
 
-# 📸 Screenshots
+## Login Page
 
-<h2>Login Page</h2>
-<img src="screenshots/login.png" width="900">
+![Login](screenshots/login.png)
 
-<h2>Register Page</h2>
-<img src="screenshots/register.png" width="900">
+## Register Page
 
-<h2>Dashboard</h2>
-<img src="screenshots/dashboard.png" width="900">
+![Register](screenshots/register.png)
 
-<h2>Accounts</h2>
-<img src="screenshots/accounts.png" width="900">
+## Dashboard
 
-<h2>Transfer</h2>
-<img src="screenshots/transfer_1.png" width="900">
-<br><br>
-<img src="screenshots/transfer_2.png" width="900">
+![Dashboard](screenshots/dashboard.png)
 
-<h2>Transactions</h2>
-<img src="screenshots/transaction.png" width="900">
+## Accounts
 
-<h2>Fraud Detection</h2>
-<img src="screenshots/fraud_detection.png" width="900">
+![Accounts](screenshots/accounts.png)
 
-<h2>Analytics</h2>
-<img src="screenshots/analytics.png" width="900">
+## Transfer
 
-<h2>Security Settings</h2>
-<img src="screenshots/security.png" width="900">
+![Transfer](screenshots/transfer_1.png)
 
-<h2>Settings</h2>
-<img src="screenshots/setting.png" width="900">
+![Transfer](screenshots/transfer_2.png)
+
+## Transactions
+
+![Transactions](screenshots/transaction.png)
+
+## Fraud Detection
+
+![Fraud Detection](screenshots/fraud_detection.png)
+
+## Analytics
+
+![Analytics](screenshots/analytics.png)
+
+## Security Settings
+
+![Security](screenshots/security.png)
+
+## Settings
+
+![Settings](screenshots/setting.png)
+
