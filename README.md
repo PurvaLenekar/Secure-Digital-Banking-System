@@ -380,45 +380,47 @@ Microservices Architecture
 
 # 📸 Screenshots
 
-## Login Page
+1. **Login Page**
+   - Secure user authentication with JWT
+   ![Login](screenshots/login.png)
 
-![Login](screenshots/login.png)
+2. **Register Page**
+   - Create a new account with validation and password hashing
+   ![Register](screenshots/register.png)
 
-## Register Page
+3. **Dashboard**
+   - View account overview and recent transactions
+   ![Dashboard](screenshots/dashboard.png)
 
-![Register](screenshots/register.png)
+4. **Accounts**
+   - Manage bank accounts and view balances
+   ![Accounts](screenshots/accounts.png)
 
-## Dashboard
+5. **Money Transfer**
+   - Transfer funds securely between accounts
+   ![Transfer](screenshots/transfer_1.png)
 
-![Dashboard](screenshots/dashboard.png)
+   - Transaction confirmation and status
+   ![Transfer Confirmation](screenshots/transfer_2.png)
 
-## Accounts
+6. **Transaction History**
+   - View completed, pending, and failed transactions
+   ![Transactions](screenshots/transaction.png)
 
-![Accounts](screenshots/accounts.png)
+7. **Fraud Detection**
+   - Monitor suspicious activities and alerts
+   ![Fraud Detection](screenshots/fraud_detection.png)
 
-## Transfer
+8. **Analytics Dashboard**
+   - Monthly spending trends and summaries
+   ![Analytics](screenshots/analytics.png)
 
-![Transfer](screenshots/transfer_1.png)
+9. **Security Settings**
+   - Manage OTP, password reset, and account security
+   ![Security](screenshots/security.png)
 
-![Transfer](screenshots/transfer_2.png)
+10. **Settings**
+    - Customize profile and application settings
+    ![Settings](screenshots/setting.png)
 
-## Transactions
-
-![Transactions](screenshots/transaction.png)
-
-## Fraud Detection
-
-![Fraud Detection](screenshots/fraud_detection.png)
-
-## Analytics
-
-![Analytics](screenshots/analytics.png)
-
-## Security Settings
-
-![Security](screenshots/security.png)
-
-## Settings
-
-![Settings](screenshots/setting.png)
-
+---
