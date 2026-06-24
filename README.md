@@ -123,6 +123,7 @@ Supports:
 ---
 
 
+
 ## 👥 Role-Based Access Control (RBAC)
 
 ### User
@@ -375,4 +376,69 @@ Redis Caching
 BullMQ Queue System
 Event-Driven Architecture
 Microservices Architecture
+
+
+# 📸 Screenshots
+
+## Login Page
+
+![Login](./screenshots/login.png)
+
+---
+
+## Register Page
+
+![Register](./screenshots/register.png)
+
+---
+
+## Dashboard
+
+![Dashboard](./screenshots/dashboard.png)
+
+---
+
+## Accounts
+
+![Accounts](./screenshots/accounts.png)
+
+---
+
+## Transfer
+
+![Transfer](./screenshots/transfer_1.png)
+![Transfer](./screenshots/transfer_2.png)
+
+
+---
+
+## Transactions
+
+![Transactions](./screenshots/transaction.png)
+
+---
+
+## Fraud Detection
+
+![Fraud Detection](./screenshots/fraud_detection.png)
+
+---
+
+## Analytics
+
+![Analytics](./screenshots/analytics.png)
+
+---
+
+## Security Settings
+
+![Security](./screenshots/security.png)
+
+---
+
+##  Settings
+
+![Settings](./screenshots/setting.png)
+
+---
 
