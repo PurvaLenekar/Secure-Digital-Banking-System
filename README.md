@@ -325,6 +325,8 @@ AuditLog
   details,
   createdAt
 }
+```
+
 
 🌐 API Endpoints
 Authentication APIs
